@@ -1,14 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/zayminmaw">
+    <a href="https://www.linkedin.com/in/zinlin-aung-b489871a1">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://medium.com/@zayminmaw">
-      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
-    </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=zay467&style=flat-square&color=blue" alt=""/>
 </div>
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/LQzvI8zbzrwZliUj3V/giphy.gif" width="600" height="300"/>
@@ -22,7 +18,7 @@
 - 👀 You can watch my Game Projects here-https://prototype2002.itch.io/
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
