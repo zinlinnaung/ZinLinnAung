@@ -49,8 +49,8 @@
 ### :fire: My Stats :
 
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zayminmaw&show_icons=true&locale=en&theme=vision-friendly-dark" alt="zayminmaw" />
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=zayminmaw&theme=dark&background=000000" alt="zayminmaw"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zinlinnaung&show_icons=true&locale=en&theme=vision-friendly-dark" alt="zinlinnaung" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=zinlinnaung&theme=dark&background=000000" alt="zinlinnaung"/>
 </div>  
 
 <br/>
