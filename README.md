@@ -1,4 +1,18 @@
-![image](https://github.com/zinlinnaung/ZinLinnAung/assets/66340220/79ffab10-2c85-4476-bb13-e5e58eacdaae)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/zayminmaw">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://medium.com/@zayminmaw">
+      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=zay467&style=flat-square&color=blue" alt=""/>
+</div>
+<!-- <div align="center">
+  <img src="https://media.giphy.com/media/LQzvI8zbzrwZliUj3V/giphy.gif" width="600" height="300"/>
+</div> -->
 
 
 - 👋 Hi, I’m @ZinLinnAung
