@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi, I'm Zin Linn Aung 👋</h1>
 <p align="center">
-  A software engineer with a passion for game development, artificial intelligence, and robotics.
+  A software engineer ,full stack web developer with a passion for game development, artificial intelligence, and robotics.
 </p>
 
 ---
