@@ -14,7 +14,7 @@
 
 🌱 I am currently expanding my knowledge in web development, game development, and AI.
 
-👀 You can explore my game projects here: Prototype2002 on Itch.io.
+👀 You can explore my game projects here: https://prototype-studio.itch.io on Itch.io.
 
 📫 Feel free to reach out to me at ZinLinnAung4905@gmail.com.
 
