@@ -10,12 +10,13 @@
   <img src="https://media.giphy.com/media/LQzvI8zbzrwZliUj3V/giphy.gif" width="600" height="300"/>
 </div> -->
 
+👋 Hi, I'm Zin Linn Aung, a software engineer with a passion for game development, artificial intelligence, and robotics.
 
-- 👋 Hi, I’m @ZinLinnAung software engineer 
-- 👀 I’m interested in Game Development, AI and robotic...
-- 🌱 I’m currently learning Web ,GameDevelopment and AI ...
-- 📫 Zinlinaung4905@gmail.com...
-- 👀 You can watch my Game Projects here-https://prototype2002.itch.io/
+🌱 I am currently expanding my knowledge in web development, game development, and AI.
+
+👀 You can explore my game projects here: Prototype2002 on Itch.io.
+
+📫 Feel free to reach out to me at ZinLinnAung4905@gmail.com.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
